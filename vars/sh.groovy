@@ -1,3 +1,4 @@
-def call(String solutionPath) {
+def call() {
 	echo 'call method'
+	echo 'hello world'
 }
