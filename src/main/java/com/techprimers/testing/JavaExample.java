@@ -21,6 +21,7 @@ public class JavaExample {
 	  
 	      //displaying elements
 	      System.out.println(alist);
+	      System.out.println(alist);
 	   }  
 
 }
