@@ -12,6 +12,7 @@ public class JavaExample {
 	      alist.add("Pat");
 	      alist.add("Angela");
 	      alist.add("Tom");
+	      alist.add("Tom");
 	  
 	      //displaying elements
 	      System.out.println(alist);
